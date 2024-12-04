@@ -34,3 +34,4 @@ Follow these steps to set up **My Chat App** on your local machine:
    ```bash
    git clone https://github.com/farhan00079/my-chat-app.git
    cd my-chat-app
+   npm start
